@@ -1,0 +1,3 @@
+Buscando elemento...
+2|1|H|Hydrogen|1.008|-259.1|-252.9|nonmetal
+The element with atomic number 1 is Hydrogen (H). It's a nonmetal, with a mass of 1.008 amu. Hydrogen has a melting point of -259.1 celsius and a boiling point of -252.9 celsius.
